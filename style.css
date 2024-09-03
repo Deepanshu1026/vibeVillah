@@ -589,7 +589,7 @@ border-radius: 30px;
     border-radius: 13px;
     width: 46%;
     margin: 10px 0px;
-    background: url(image/hotel2.jpg)no-repeat center center/cover;
+    background: url(hotel2.jpg)no-repeat center center/cover;
     display: flex;
     flex-direction: column;
 }
